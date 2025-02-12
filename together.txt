@@ -1,1 +1,2 @@
 My capstone project is defining churn, training a model that will predict probabity of churn based on my churn definition. (Ikechukwu)
+My capstone is on Financial Risk, predicting what factors influence whether an applicant's loan is approved. (Oliver)
